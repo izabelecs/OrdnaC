@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1794183569 source:c:\users\user\desktop\trabalho andré\lista encadeada ordenada\aps_estrutura_dados\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1794183626 c:\users\user\desktop\trabalho andré\lista encadeada ordenada\aps_estrutura_dados\lista.h
+
+1794185352 source:c:\users\user\desktop\trabalho andré\lista encadeada ordenada\aps_estrutura_dados\testes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"lista.h"
+	"testes.h"
+
+1794185347 c:\users\user\desktop\trabalho andré\lista encadeada ordenada\aps_estrutura_dados\testes.h
+
+1794184215 source:c:\users\user\desktop\trabalho andré\lista encadeada ordenada\aps_estrutura_dados\main.c
+	"testes.h"
+	<stdio.h>
+	"lista.h"
+

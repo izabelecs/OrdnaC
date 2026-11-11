@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1794185682 source:c:\users\user\desktop\trabalho andré\Árvore binária\aps_estrutura_dados\testes.c
+
+1794185748 source:c:\users\user\desktop\trabalho andré\Árvore binária\aps_estrutura_dados\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore.h"
+
+1794185968 c:\users\user\desktop\trabalho andré\Árvore binária\aps_estrutura_dados\arvore.h
+

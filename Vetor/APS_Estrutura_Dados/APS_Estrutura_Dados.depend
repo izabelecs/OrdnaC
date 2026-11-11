@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1794178152 source:c:\users\user\desktop\trabalho andré\aps_estrutura_dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"vetor.h"
+
+1794166543 c:\users\user\desktop\trabalho andré\aps_estrutura_dados\vetor.h
+
+1794167080 source:c:\users\user\desktop\trabalho andré\aps_estrutura_dados\vetor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vetor.h"
+
+1794167080 source:c:\users\user\desktop\trabalho andré\vetor\aps_estrutura_dados\vetor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vetor.h"
+
+1794166543 c:\users\user\desktop\trabalho andré\vetor\aps_estrutura_dados\vetor.h
+
